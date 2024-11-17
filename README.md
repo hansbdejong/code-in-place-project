@@ -4,6 +4,8 @@ Code in Place is a free online Python course hosted by Stanford University that 
 
 In 2023 I built a new a new Learning Management System for Code in Place, which contributed to record student completion rates. Consulting with instructors and students, I designed an intuitive user interface to maximize student engagement. In addition, I created an innovative platform for easy course content creation and management with collaborative rich text editors.
 
+**Skills:** React, React Hooks, React Router, Firebase, HTML, CSS, Bootstrap, JavaScript, User Experience, User Interface Design, Authentication
+
 ### Figure 1:
 Page navigation.
 
